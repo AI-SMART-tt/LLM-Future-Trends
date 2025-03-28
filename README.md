@@ -1,7 +1,6 @@
 # LLM-Future-Trends
-Future Trends in Time Series Models for the Next Five Years
 
-## 🚀 2. Future Trends in Time Series Forecasting (2025–2030)
+## 🚀 Future Trends in Time Series Forecasting (2025–2030)
 
 ---
 
